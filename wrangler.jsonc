@@ -10,7 +10,7 @@
     {
       "binding": "DB",
       "database_name": "koreader-sync",
-      "database_id": "replace-with-d1-database-id",
+      "database_id": "f0820833-5172-42c7-81cd-c21a6ce06f29",
       "migrations_dir": "migrations"
     }
   ],
