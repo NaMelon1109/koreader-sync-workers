@@ -17,11 +17,11 @@
   "vars": {
     "DISABLE_USER_REGISTRATION": "true"
   },
-  "secrets": {
-    "required": [
-      "PASSWORD_SALT"
-    ]
-  },
+  //"secrets": {
+  //  "required": [
+  //    "PASSWORD_SALT"
+  //  ]
+  //},
   "ratelimits": [
     {
       "name": "AUTH_RATE_LIMITER",
